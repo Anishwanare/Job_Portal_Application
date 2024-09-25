@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is Careercove?",
+    "answer": "Careercove is an advanced job portal designed to connect job seekers with top employers. It offers a seamless experience for users to explore, apply, and manage job opportunities while providing companies with tools to find the best talent."
+  },
+  {
+    "question": "How do I create a job listing?",
+    "answer": "Employers can easily create job listings by logging in, navigating to the 'Create Job' page, and filling out the required details such as job title, description, and qualifications."
+  },
+  {
+    "question": "What filters can I use to search for jobs?",
+    "answer": "Job seekers can refine their search using filters like keywords, location, industry, job type, and experience level to find the most relevant opportunities."
+  },
+  {
+    "question": "How do I apply for a job on Careercove?",
+    "answer": "To apply for a job, simply click on the job listing, review the job details, and click 'Apply Now.' You'll need to upload your resume and provide any additional information required by the employer."
+  },
+  {
+    "question": "Can I save job listings to review later?",
+    "answer": "Yes, you can save jobs by clicking the 'Save Job' button on any job listing. These saved jobs can be accessed later from the 'Saved Jobs' section in your profile."
+  },
+  {
+    "question": "How do I track the progress of my job applications?",
+    "answer": "Job seekers can track their application status through the 'Applications' section in their profile. This section provides real-time updates on each application you’ve submitted."
+  }
+]
